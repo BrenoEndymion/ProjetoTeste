@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/NetBeansMVC/libs/Controller.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/views/error/index.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/libs/Bootstrap.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/views/dashboard/index.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/libs/Database.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/views/header.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/config/database.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/index.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/views/login/index.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/models/login_model.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/controllers/dashboard.php</file>
+            <file>file:/C:/wamp/www/NetBeansMVC/libs/Session.php</file>
+        </group>
+    </open-files>
+</project-private>
